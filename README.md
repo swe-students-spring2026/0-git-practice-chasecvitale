@@ -1,10 +1,8 @@
-# ["The Future of Software Development is Upon Us"](https://www.forbes.com/councils/forbesbusinesscouncil/2024/04/18/the-future-of-software-development-is-upon-us/)
+# [The Future of Software Development is Upon Us](https://www.forbes.com/councils/forbesbusinesscouncil/2024/04/18/the-future-of-software-development-is-upon-us/)
 
-## Author: Derek Holt
-
-## Date Published: 18 April 2024
-
-## Publication: Forbes
+- **Author:** Derek Holt
+- **Date Published:** 18 April 2024
+- **Publication:** Forbes
 
 ### What I Found Interesting:
 

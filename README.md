@@ -9,3 +9,7 @@
 ## What I Found Interesting
 
 The most impressive statistic Holt uses in this article is that software developers are able to write code twice as quickly using generative AI. Although it seems obvious that developers are able to use AI for simple coding tasks, therefore allowing them to write larger amounts of code more quickly, I did not expect the amount of time saved to be this large. However, I am initially skeptical of this figure. Although senior software developers with multiple years of experience would benefit from AI coding agents, I believe that first-year developers would not reap the same benefits. It seems to me that in order to have this doubling of coding speed, one would need a baseline level of knowledge. This is important to be able to tell whether or not the AI generated code is actually efficient or solves the problem being posed.
+
+## Milan's Response:
+
+With the large time savings the article mentions, I wonder how these companies are tackling the security concerns with large scale AI uses. As these time savings are significant, are companies willing to spend more to develop their own models or pay more more secure AI features?
